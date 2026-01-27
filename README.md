@@ -6,11 +6,11 @@
 
 - <b> [Azure Sentinel SIEM Brute-Force Detection Project](https://github.com/AliameenElemikan/SIEM-Project-Azure-Sentinel-)
 
-- <b> [Wireshark Traffic Analysis (DNS/HTTP/TLS)](https://github.com/AliameenElemikan/wireshark-traffic-investigation)
+- <b> [Wireshark Traffic Analysis (DNS/HTTP/TLS)](https://github.com/AliameenElemikan/Wireshark-project)
 
-- <b> [Python File Integrity Monitor (FIM)](https://github.com/AliameenElemikan/python-file-integrity-monitor)
+- <b> [Python File Integrity Monitor (FIM)](https://github.com/AliameenElemikan/Python-FIM-Project)
 
-- <b> [Nmap Local Lab: Discovery & Hardening Report](https://github.com/AliameenElemikan/nmap-local-lab-hardening-report)
+- <b> [Nmap Local Lab: Discovery & Hardening Report](https://github.com/AliameenElemikan/Nmap-Vulnerability-Lab)
 
 
 
