@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>SiEM TOOl
+- <b>AWS S3 Public Access Security Audit & Monitoring Project
 - 
 
 <h2>📺 Certifications</h2>
