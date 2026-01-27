@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>AWS S3 Public Access Security Audit & Monitoring Project
-- 
+- <b> [AWS S3 Public Access Security Audit & Monitoring Project](https://github.com/AliameenElemikan/aws-s3-cloud-security-project)
+
 
 <h2>📺 Certifications</h2>
 
@@ -21,10 +21,6 @@
 
 [linkedin]: https://linkedin.com/in/aliameenelemikan
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
