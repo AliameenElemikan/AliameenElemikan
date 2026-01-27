@@ -4,7 +4,7 @@
 
 - <b> [AWS S3 Public Access Security Audit & Monitoring Project](https://github.com/AliameenElemikan/aws-s3-cloud-security-project)
 
-- <b> [Azure Sentinel SIEM Brute-Force Detection Project](https://github.com/AliameenElemikan/sentinel-siem-bruteforce-kql)
+- <b> [Azure Sentinel SIEM Brute-Force Detection Project](https://github.com/AliameenElemikan/SIEM-Project-Azure-Sentinel-)
 
 - <b> [Wireshark Traffic Analysis (DNS/HTTP/TLS)](https://github.com/AliameenElemikan/wireshark-traffic-investigation)
 
