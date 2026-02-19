@@ -10,7 +10,7 @@
 
 - <b> [Python File Integrity Monitor (FIM)](https://github.com/AliameenElemikan/Python-FIM-Project)
 
-- <b> [Nmap Local Lab: Discovery & Hardening Report](https://github.com/AliameenElemikan/Nmap-Vulnerability-Lab)
+- <b> [Nmap-network-recon-project](https://github.com/AliameenElemikan/Nmap-Vulnerability-Lab)
 
 
 
